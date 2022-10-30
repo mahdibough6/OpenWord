@@ -1,3 +1,5 @@
+/*demo gui app    */
+
 package word;
 
 import javax.swing.JFrame;
@@ -5,7 +7,7 @@ import javax.swing.JPanel;
 import javax.swing.JComboBox;
 import javax.swing.*;
 import java.awt.event.*;
-
+//noting 
 import java.awt.Font;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
