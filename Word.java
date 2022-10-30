@@ -1,3 +1,5 @@
+/*demo gui app    */
+
 package word;
 
 import javax.swing.JFrame;
